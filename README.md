@@ -23,16 +23,15 @@ Hover over data points for additional information.
 Click on elements to filter other visualizations based on your selection.
 Use the drill-down feature to explore data at a deeper level.
 
-Data Sources
-The sales data used in this dashboard is sourced from [insert data sources]. It is updated [insert frequency] to provide up-to-date insights.
+## Data Sources
+The sales data used in this dashboard is sourced from [Link-https://docs.google.com/spreadsheets/d/1hH-5QVDV2iljBiTySlAPW6kONFHZuS8j/edit#gid=964962924].
 
-Support
-If you encounter any issues or have questions about the dashboard, please contact [insert contact information].
+## Support
+If you encounter any issues or have questions about the dashboard, please Email [sanketmadane99@gmail.com].
 
-Feedback
-We value your feedback! If you have any suggestions for improving the dashboard or adding new features, please let us know [insert feedback mechanism].
+## Feedback
+We value your feedback! If you have any suggestions for improving the dashboard or adding new features, please let us know [sanketmadane99@gmail.com].
 
-Credits
+## Credits
 This dashboard was created using Power BI.
-Icons provided by [insert icon source].
-Data visualizations inspired by [insert inspiration sources].
+
